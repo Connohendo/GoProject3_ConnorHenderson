@@ -1,3 +1,6 @@
+/*
+Connor Henderson Project 3 Game with web assembly support
+*/
 package main
 
 import (
